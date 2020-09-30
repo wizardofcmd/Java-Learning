@@ -21,6 +21,7 @@ public class ArrayListRevision {
         sc = new Scanner(System.in);
         
         // accepting user input and inserting into ArrayList
+        // for atleast one input, enter the name Ludwig
         System.out.println("Please enter five String objects into the Array.");
         for(int i=0; i<5; i++){
             input = sc.nextLine();
